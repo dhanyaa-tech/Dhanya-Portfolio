@@ -1,5 +1,5 @@
 Hi, I'm Dhanya J
-I am an aspiring AI/ML Engineer driven by a passion for solving real-world problems using data. I enjoy building end-to-end machine learning solutions — from data preprocessing and model building to model evaluation and deployment. My goal is to keep learning, experimenting, and applying cutting-edge AI techniques to create meaningful impact.
+I am an aspiring AI/ML Engineer driven by a passion for solving real-world problems using data. I enjoy building end-to-end machine learning solutions from data preprocessing and model building to model evaluation and deployment. My goal is to keep learning, experimenting, and applying cutting-edge AI techniques to create meaningful impact.
 
 **Career Objective :**
 To secure an opportunity as an AI/ML Engineer where I can apply my analytical mindset, machine learning skills, and problem-solving abilities to develop intelligent and scalable solutions.
